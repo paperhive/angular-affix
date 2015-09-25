@@ -16,7 +16,7 @@
     "affix"
   ],
   "author": "André Gaul <andre@gaul.io>",
-  "license": "GPLv3",
+  "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/paperhive/angular-affix/issues"
   },
