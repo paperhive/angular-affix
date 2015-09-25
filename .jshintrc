@@ -2,5 +2,6 @@
   "globals": {
     "angular": false
   },
+  "node": true,
   "globalstrict": true
 }

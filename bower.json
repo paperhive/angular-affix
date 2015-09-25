@@ -1,0 +1,20 @@
+{
+  "name": "angular-affix",
+  "version": "1.0.0",
+  "homepage": "https://github.com/paperhive/angular-affix",
+  "authors": [
+    "André Gaul <andre@gaul.io>"
+  ],
+  "description": "AngularJS affix directive",
+  "main": "dist/angular-affix.js",
+  "moduleType": [],
+  "keywords": [
+    "angular",
+    "angularjs",
+    "affix"
+  ],
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "angular": "~1.4.6"
+  }
+}
