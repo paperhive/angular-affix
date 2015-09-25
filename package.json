@@ -4,7 +4,7 @@
   "description": "AngularJS affix directive",
   "main": "lib/index.js",
   "scripts": {
-    "build": "cp lib/index.js dist/angular-affix.js && uglifyjs dist/angular-affix.js --compress --mangle --source-map dist/angular-affix.min.js.map -p relative -o dist/angular-affix.min.js",
+    "build": "mkdir -p dist && cp lib/index.js dist/angular-affix.js && uglifyjs dist/angular-affix.js --compress --mangle --source-map dist/angular-affix.min.js.map -p relative -o dist/angular-affix.min.js",
     "test": "karma start --single-run"
   },
   "repository": {
