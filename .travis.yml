@@ -4,6 +4,8 @@ node_js:
 script:
   - npm test
 sudo: false
+env:
+  - CXX=g++-4.8
 addons:
   apt:
     sources:
